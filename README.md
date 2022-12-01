@@ -16,7 +16,7 @@ Input file can be in WAV format: 8, 16 or 24 bit (integer)
 Same as input
 
 ## Model
-- model saved as: "saved_model.pb:
+- model saved as: "saved_model.pb"
 - input: 150 samples (float32)
 - batch: multiple of 150 (default: 600)
 
